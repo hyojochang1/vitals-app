@@ -64,4 +64,4 @@ with st.container():
             bpChecker("Blood Pressure",sys,dia,p_low[2],p_hi[2],p_low[3],p_hi[3])
             checker("Respiratory rate",breathe,p_low[4],p_hi[4])
             checker("SpO2",SpO2,p_low[5],p_hi[5])
-        st.balloons()
+        
